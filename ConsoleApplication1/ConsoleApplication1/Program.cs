@@ -10,8 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Don't let your memes be dreams.");
-            Console.ReadLine();
+          
         }
     }
 }
